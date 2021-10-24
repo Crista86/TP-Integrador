@@ -1,0 +1,15 @@
+nav img {
+  width: 120px;
+}
+footer {
+  background-color: #224a62;
+  margin-top: 1em;
+  height: 6em;
+}
+
+.nav-link {
+  color: white;
+}
+.carousel-caption {
+  vertical-align: middle;
+}
